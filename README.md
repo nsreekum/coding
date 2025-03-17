@@ -8,3 +8,4 @@
 | 2560 | House Robber IV | [LC2560](LC2560_house_robber_iv.cc) |
 | 198 | House Robber | [LC198](LC198_house_robber.cc)|
 | 2594 | Minimum time to repair cars | [LC2594](LC2594_min_time_repair_cars.cc) |
+| 2206 | Divide Array Into Equal Pairs | [LC2206](LC2206_div_array_pairs.cc) |
