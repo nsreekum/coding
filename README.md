@@ -10,3 +10,4 @@
 | 2594 | Minimum time to repair cars | [LC2594](LC2594_min_time_repair_cars.cc) |
 | 2206 | Divide Array Into Equal Pairs | [LC2206](LC2206_div_array_pairs.cc) |
 | 2401 | Longest Nice Subarray | [LC2401](LC2401_long_nice_arr.cc) |
+| 3191 | Minimum Operations to Make Binary Array Elements Equal to One I | [LC3191](LC3191_min_ops_binarr_to_one.cc) |
